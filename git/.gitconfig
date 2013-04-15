@@ -1,0 +1,37 @@
+[user]
+	name = CommanderHamster
+	email = alexhamstra@gmail.com
+[credential]
+	helper = cache --timeout=3600
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    di = diff
+    b = branch
+    div = divergence
+    pom = push origin master
+    fa = fetch --all
+    aa = add --all
+    l = log --graph --abbrev-commit --date=relative
+    la = !git l --all
+    r = !git --no-pager l -20
+    ra = !git r --all
+    head = !git l -1
+    scm-push = !scm-submit
+    h = !git head
+
+[format]
+    pretty = format:%C(yellow)%h%Creset -%C(red)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset
+
+[diff]
+    tool = vimdiff
+
+[merge]
+    tool = vimdiff
+
+

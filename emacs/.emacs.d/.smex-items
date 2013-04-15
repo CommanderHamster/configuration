@@ -1,0 +1,26 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ java-mode
+ rectangle-number-lines
+ lisp-mode
+ shell
+ eshell
+ replace-regexp
+)
+
+;; ----- smex-data -----
+(
+ (replace-regexp . 2)
+ (package-install . 3)
+ (auto-complete . 1)
+ (auto-complete-mode . 1)
+ (global-auto-complete-mode . 1)
+ (rectangle-number-lines . 3)
+ (eshell . 1)
+ (shell . 1)
+ (lisp-mode . 1)
+ (java-mode . 1)
+ (scala-mode . 1)
+)

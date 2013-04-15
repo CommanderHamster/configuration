@@ -1,0 +1,30 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/ahamstra/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ahamstra/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ahamstra/.emacs.d/" (20517 22186 76460 452000) "../" "places" "auto-save-list/" "./" "elpa/" "ac-comphist.dat" "themes/" ".smex-items" "backups/" "init.el")
+
+ ("/home/ahamstra/" (20517 22186 120460 451000) ".gtk-bookmarks" ".remmina/" "Public/" "Documents/" ".zshrc" "software/" ".nvidia-settings-rc" ".git-credential-cache/" "sdfStuff.txt" "../" ".pulse/" ".face" ".mozilla/" ".bash_history" ".xsession-errors" ".bashrc" ".macromedia/" ".dbus/" ".goutputstream-3IVYIW" ".gstreamer-0.10/" ".goutputstream-UCBMIW" "Downloads/" ".gitignore.example" ".ssh/" ".gnome2_private/" ".p4ob/" ".xchat2/" "gnome-tweak-tool/" ".goutputstream-S7U7HW" ".thumbnails/" ".emacs.d/" ".gconf/" "./" ".Xauthority" "examples.desktop" "git/" "Templates/" ".config/" ".dmrc" ".goutputstream-NL9QIW" ".goutputstream-H5ZMIW" ".zshrc~" ".goutputstream-DVZUIW" ".local/" "Desktop/" "Music/" ".pki/" ".Skype/" ".goutputstream-O9NXIW" ".myEnv~" ".saves/" "p/" ".goutputstream-AWZ1HW" ".gnome2/" "Pictures/" ".p4qt/" ".ido.last" ".histfile" ".lesshst" ".goutputstream-8Q5LIW" ".thunderbird/" ".gvfs/" "Ubuntu One/" ".recentf" "Videos/" ".cache/" ".myEnv" ".freerdp/" ".zcompdump" ".adobe/" ".kde/" ".compiz-1/" ".fontconfig/" ".nv/" ".xsession-errors.old" ".pulse-cookie" ".profile" ".ICEauthority" ".emacs" ".mission-control/" ".launchpadlib/" ".bash_logout" ".gitconfig")
+
+ ("/home/ahamstra/.emacs.d/elpa/" (20517 21341 732485 400000) "find-file-in-project-3.2/" "../" "archives/" "smex-1.1.2/" "popup-0.5/" "auto-complete-1.4/" "./" "groovy-mode-20110609/" "magit-1.1.1/" "clojure-mode-1.11.5/" "starter-kit-2.0.3/" "ido-ubiquitous-1.0/" "starter-kit-eshell-2.0.2/" "ack-and-a-half-1.0.0/" "starter-kit-js-2.0.1/" "paredit-22/" "elisp-slime-nav-0.2/" "starter-kit-bindings-2.0.2/" "idle-highlight-mode-1.1.2/" "starter-kit-lisp-2.0.3/" "nrepl-0.1.2/")
+
+ ("/home/ahamstra/.emacs.d/elpa/auto-complete-1.4/" (20517 21684 668475 267000) "../" "auto-complete-config.elc" "COPYING.FDL" "./" "Makefile" "dict/" "COPYING.GPLv3" "auto-complete-autoloads.el" "auto-complete-pkg.elc" "auto-complete-config.el" "auto-complete-pkg.el" "TODO.md" "auto-complete.el" "auto-complete.elc" "doc/" "README.md")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
