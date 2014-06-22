@@ -1,8 +1,8 @@
 ### setting the Prompt ###
 PROMPT=$'\e[0;36m%t: %~
-\e[0;32m-> \e[0m' # Left Prompt
+%{\e[0;32m%}-> %{\e[0m'%} # Left Prompt
 RPROMPT='' # prompt for right side of screen
-export TERM=rxvt-unicode-256color # for the correct tabbing
+#export TERM=rxvt-unicode-256color # for the correct tabbing
 
 ### Java exports ###
 export JAVA_HOME=$HOME/software/java/jdk1.6.0_25-x86_64
