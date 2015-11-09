@@ -8,16 +8,19 @@
     ui = auto
 
 [alias]
+    rev = !sh review.sh
     st = status
     ci = commit
     co = checkout
     di = diff
     b = branch
-    div = divergence
-    pom = push origin master
+    fom = fetch origin master
+    mm = merge origin/master
     fa = fetch --all
     aa = add --all
+    ca = "!git aa; git ci -m"
     l = log --graph --abbrev-commit --date=relative
+    lp = !git l --first-parent
     la = !git l --all
     r = !git --no-pager l -20
     ra = !git r --all
@@ -34,4 +37,5 @@
 [merge]
     tool = vimdiff
 
-
+[push]
+	default = matching
